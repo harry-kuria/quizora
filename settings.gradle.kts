@@ -21,4 +21,7 @@ dependencyResolutionManagement {
 
 rootProject.name = "quizora"
 include(":app")
- 
+include(":core")
+include(":data")
+include(":feature-teacher")
+include(":feature-student")
